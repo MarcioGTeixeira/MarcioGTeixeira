@@ -12,8 +12,8 @@ definir e implementar o lançamento de pipelines de CI/CD usando o Azure DevOps.
 
 ### ⚡ GitHub Stats !
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcioGTeixeira&show_icons=true&theme="/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGTeixeira&layout=compact&theme="/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MarcioGTeixeira&show_icons=true&theme=highcontrast"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioGTeixeira&layout=compact&theme=highcontrast"/>
 </div>
 
 
