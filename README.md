@@ -6,8 +6,9 @@ Formado em Análise e Desenvolvimento de Sistemas
 Certificado pela Microsoft <br>
 Azure Administrator Associate | DevOps Engineer Expert
 
-Meu foco atualmente, está em desenvolver projetos de infraestrutura via código(iac) usando o Terraform, 
-definir e implementar o lançamento de pipelines de CI/CD usando o Azure DevOps.
+Apaixonado por tecnologia, meu foco está em desenvolver projetos de infraestrutura via código(iac) usando o Terraform.
+Definir e implementar estratégia de CI/CD usando Azure DevOps, e outras plataformas de Cloud.
+
 <br>
 
 ### ⚡ GitHub Stats !
@@ -35,4 +36,5 @@ definir e implementar o lançamento de pipelines de CI/CD usando o Azure DevOps.
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+<img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 </div>
