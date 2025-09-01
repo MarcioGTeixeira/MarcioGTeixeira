@@ -40,4 +40,7 @@ Azure Administrator Associate | DevOps Engineer Expert
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="center" alt="Marcio-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 </div>
